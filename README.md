@@ -80,45 +80,93 @@ I'm a Computer Science and Engineering student specializing in AI/ML, passionate
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 💰 AI-Spend-Analysis
 
-> AI-powered personal finance management platform.
+**AI-powered personal finance platform**
 
-* Building a production-grade full-stack finance application
-* Analyzes spending patterns using Machine Learning and LLMs
-* Generates intelligent financial insights
-* Responsive React frontend connected to a scalable FastAPI backend
-* PostgreSQL-powered data layer
+A production-grade full-stack application that analyzes spending patterns and generates intelligent financial insights using Machine Learning and LLMs.
 
-**Tech:** React • FastAPI • PostgreSQL • Machine Learning • LLMs
+**Tech Stack**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+
+<br>
+
+**🚧 Currently in development**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛡️ FraudGuard
 
-> Real-time AI-powered financial fraud detection system.
+**Real-time financial fraud detection**
 
-* Developed a machine learning application for detecting fraudulent transactions
-* Trained classification models to identify legitimate and suspicious transactions
-* Built an end-to-end ML pipeline from preprocessing to prediction
-* Integrated live prediction through a web interface
+Machine learning application that detects potentially fraudulent financial transactions and serves predictions through a web interface.
 
-**Tech:** Python • Machine Learning • Classification • Web Development
+**Tech Stack**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 
-### 👟 Sneakers E-Commerce Website
+<br>
 
-> Responsive e-commerce experience built from scratch.
+**🔗 Repository:** `Add your GitHub link`
 
-* Developed a fully responsive sneakers e-commerce website
-* Implemented dynamic and interactive frontend components
-* Optimized navigation and layout for a smooth user experience
-* Focused on accessibility across different devices
+</td>
 
-**Tech:** HTML • CSS • JavaScript
+</tr>
 
----
+<tr>
+
+<td width="50%" valign="top">
+
+### 👟 Sneakers E-Commerce
+
+**Responsive e-commerce website**
+
+A fully responsive sneakers shopping experience with dynamic interactions, optimized navigation and a clean user-focused interface.
+
+**Tech Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+<br>
+
+**🔗 Repository:** `Add your GitHub link`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 More Projects
+
+I'm continuously building and experimenting with:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🌐 Full-Stack Applications
+* 🔗 LLM-powered systems
+* ⚡ Intelligent automation
+
+**More projects coming soon...**
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🧠 DSA & Problem Solving
 
