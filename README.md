@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile_banner.png" alt="Barun Chauhan - AI/ML Developer" width="100%">
+</p>
+
 # 👋 Hi, I'm Barun Chauhan
 
 <p align="center">
