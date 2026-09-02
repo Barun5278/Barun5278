@@ -223,25 +223,30 @@ Lovely Professional University
 
 ## 🏆 Achievements
 
-* 🧠 Solved **120+ DSA problems** from Striver's A2Z Sheet on LeetCode
-* 🚀 Built **3 independent technical projects** across AI/ML, full-stack development and fraud detection
-* 🎓 Maintained a **8.96 CGPA** in B.Tech CSE (AI/ML)
-* ⭐ Completed a **6-week live Artificial Intelligence internship** with A+ overall performance
-* 🤖 Earned **Oracle Foundations Associate — Agentic AI** certification
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/CGPA-8.96-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-Agentic%20AI-red?style=for-the-badge"/>
+
+</p>
+
+### Highlights
+
+- 🧠 120+ DSA problems solved (Striver A2Z)
+- 🎓 CGPA: **8.96 / 10**
+- 🤖 Oracle Certified in Agentic AI
+- 🚀 Built production-ready AI & Full Stack projects
 
 ---
 
 ## 📊 GitHub Stats
 
+## 🏅 GitHub Trophies
+
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Barun5278&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barun5278&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Barun5278&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
