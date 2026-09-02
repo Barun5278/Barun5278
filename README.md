@@ -100,7 +100,7 @@ A production-grade full-stack application that analyzes spending patterns and ge
 
 <br>
 
-**🚧 Currently in development**
+**🔗 [View Repository →](https://github.com/Barun5278/AI-SPEND-ANALYSIS)**
 
 </td>
 
@@ -120,7 +120,7 @@ Machine learning application that detects potentially fraudulent financial trans
 
 <br>
 
-**🔗 Repository:** `Add your GitHub link`
+**🔗 [View Repository →](https://github.com/Barun5278/FraudGuard)**
 
 </td>
 
